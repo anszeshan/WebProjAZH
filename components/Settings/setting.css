@@ -1,0 +1,130 @@
+.tabs_btn button {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 3px 3px 6px #00000029;
+  border: 1px solid #265BC4;
+  border-radius: 4px;
+  opacity: 1;
+  color: #265BC4;
+  font-size: 15px;
+
+  padding: 10px 32px;
+}
+
+.tabs_btn button:hover {
+  background: #265BC4 0% 0% no-repeat padding-box;
+  color: white;
+}
+
+.btn_active {
+  background: #265BC4 0% 0% no-repeat padding-box !important;
+  color: white !important;
+
+}
+
+.horizontal_bar {
+  border: 1px solid #c7c7c7;
+  opacity: 0.36;
+}
+
+.horizontal_bar2 {
+  /* border: 0.1px solid #707070 !important; */
+  color: #707070 !important;
+  opacity: 0.46;
+  /* border-width: 122px; */
+  margin-left: 12px;
+  margin-bottom: 0px !important;
+}
+
+.first_head {
+  font-weight: 600;
+}
+
+.first_subhead {
+  margin-top: -10px;
+  letter-spacing: 0.06px;
+  color: #858585;
+  opacity: 0.7;
+  font-weight: 500;
+}
+
+.main_Header {
+  width: 37% !important;
+}
+
+.second_head {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.second_subhead {
+  margin-top: -10px;
+  letter-spacing: 0.06px;
+  color: #858585;
+  opacity: 0.7;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.img_upload_btn {
+  background: #265BC4 0% 0% no-repeat padding-box !important;
+  box-shadow: 3px 3px 6px #00000029 !important;
+  border: 1px solid #265BC4 !important;
+  border-radius: 4px !important;
+  opacity: 1;
+  color: white !important;
+  font-size: 15px !important;
+
+
+  padding: 10px 32px !important;
+  text-transform: capitalize !important;
+
+}
+.img_upload_btn.add_emp_img {
+  padding-top: 5px !important;
+  padding-bottom: 10px !important;
+
+}
+
+.img_delete_btn {
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 3px 3px 6px #00000029;
+  border: 1px solid #265BC4;
+  border-radius: 4px;
+  opacity: 1;
+  color: #265BC4;
+  font-size: 15px;
+
+  padding: 10px 32px;
+
+}
+
+.img_delete_btn:hover {
+  color: white;
+  background-color: #265BC4;
+}
+
+.save_changes {
+  background: #265BC4 0% 0% no-repeat padding-box;
+  box-shadow: 3px 3px 6px #00000029;
+  border: 1px solid #265BC4;
+  border-radius: 4px;
+  opacity: 1;
+  color: white;
+  font-size: 15px;
+  /* margin-left: 0 !important; */
+  margin: 0 !important;
+
+
+  padding: 10px 32px;
+}
+
+.save_changes:hover {
+  background-color: #396bcf;
+  color: white;
+}
+
+#details,
+#password,
+#company_details {
+  overflow-x: hidden;
+}
